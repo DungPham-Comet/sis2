@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<kouji_number>TEST00000</kouji_number>
+		<spaceFinderId>1234</spaceFinderId>
+		<shohin_code>0X695M</shohin_code>
+		<juto_code>84Z</juto_code> <!-- 34 -->
+		<juto_code>84S</juto_code> <!-- 33 -->
+		<juto_code>39G</juto_code> <!-- 13 -->
+		<juto_code>*01</juto_code> <!-- 1 -->
+		<note>
+		</note>
+		<!-- 89119 - RIB32301 - 97 88603 - RIB18501 - 92 78941 - BG0043701 - 90 
+			84566 - RHB86501 - 41 78940 - BG0043601 - 88 83546 - RGBH5801 - 44 83547 
+			- RGBH5901 - 44 84669 - BH0018601 - 77 84670 - BH0018701 - 76 89130 - BH0056901 
+			- 39 -->
+	</user>
+
+	<user>
+		<kouji_number>TEST00001</kouji_number>
+		<spaceFinderId>1234</spaceFinderId>
+		<shohin_code>0X695M</shohin_code>
+		<juto_code>Z8X</juto_code> <!-- 70 -->
+		<juto_code>8CG</juto_code> <!-- 40 -->
+		<juto_code>*01</juto_code> <!-- 1 -->
+		<note>
+		</note>
+
+		<!-- 89119 - RIB32301 - 127 88603 - RIB18501 - 25 78941 - BG0043701 - 93 
+			84566 - RHB86501 - 77 78940 - BG0043601 - 91 83546 - RGBH5801 - 80 83547 
+			- RGBH5901 - 80 84669 - BH0018601 - 80 84670 - BH0018701 - 79 89130 - BH0056901 
+			- 75 -->
+
+	</user>
+
+	<user>
+		<kouji_number>TEST00002</kouji_number>
+		<spaceFinderId>1234</spaceFinderId>
+		<shohin_code>0X695M</shohin_code>
+		<juto_code>X3E</juto_code> <!-- 58 -->
+		<note>
+		</note>
+
+		<!-- 89119 - RIB32301 - 58 88603 - RIB18501 - 0 78941 - BG0043701 - 58 
+			84566 - RHB86501 - 58 78940 - BG0043601 - 58 83546 - RGBH5801 - 58 83547 
+			- RGBH5901 - 58 84669 - BH0018601 - 0 84670 - BH0018701 - 0 89130 - BH0056901 
+			- 58 -->
+	</user>
+
+</users>

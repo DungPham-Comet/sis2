@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+	<kouji_number>TEST00000</kouji_number>
+	<spaceFinderId>1234</spaceFinderId>
+	<shohin_code>0X695M</shohin_code>
+	<juto_code>84Z</juto_code> <!-- 34 -->
+	<juto_code>84S</juto_code> <!-- 33 -->
+	<juto_code>39G</juto_code> <!-- 13 -->
+	<juto_code>*01</juto_code> <!-- 1 -->
+	<bikou> </bikou>
+</user>
+<!--
+89119 - RIB32301 - 97
+88603 - RIB18501 - 92
+78941 - BG0043701 - 90
+84566 - RHB86501 - 41
+78940 - BG0043601 - 88
+83546 - RGBH5801 - 44
+83547 - RGBH5901 - 44
+84669 - BH0018601 - 77
+84670 - BH0018701 - 76
+89130 - BH0056901 - 39
+-->
+
